@@ -1,0 +1,139 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "convolution": {
+      "convolution": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687197614367
+        }
+      }
+    },
+    "FFT Motivation": {
+      "FFT Motivation": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1687198530175
+        }
+      }
+    },
+    "HVM HOW": {
+      "HVM HOW": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1687198553878
+        }
+      }
+    },
+    "performance": {
+      "performance": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687198933828
+        }
+      }
+    },
+    "Applications": {
+      "Applications": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1687199313068
+        }
+      }
+    },
+    "optimalité": {
+      "optimalité": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687199809513
+        }
+      }
+    },
+    "simple03700": {
+      "simple03700": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687199842584
+        }
+      }
+    },
+    "graphes": {
+      "graphes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687199973230
+        }
+      }
+    },
+    "Fusion": {
+      "Fusion": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687200239958
+        }
+      }
+    },
+    "warning": {
+      "warning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687200255399
+        }
+      }
+    },
+    "interaction": {
+      "interaction": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687276559351
+        }
+      }
+    }
+  }
+}

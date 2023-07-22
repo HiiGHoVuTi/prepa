@@ -1,0 +1,6 @@
+[[TD - Comparaisons locales de fonctions Ex1.excalidraw]]
+[[Maths TD - Comparaisons locales de fonctions Ex2.excalidraw]]
+[[Maths TD - Comparaisons locales de fonctions Ex3.excalidraw]]
+[[Maths TD - Comparaisons locales de fonctions Ex4.excalidraw]]
+[[Maths TD - Comparaisons locales de fonctions Ex5.excalidraw]]
+[[Maths TD - Comparaisons locales de fonctions Ex6.excalidraw]]

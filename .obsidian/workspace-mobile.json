@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "d596fea04c7fb859",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc4863e3d7663def",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64abf861ef13e19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Lemme - Logarithmes d'équivalents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "966b22b002420d4d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9cecd9cef630eb0f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "802e0ede4b7c1e23",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "pont diviseur de tension",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "192e5da18904e41a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "79bbc69efb6daace",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1f8a950a0af1aadb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ac4fd1bd897fdf1d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Maths/Lemme - Logarithmes d'équivalents.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3a4ef710a0bdaaeb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Maths/Lemme - Logarithmes d'équivalents.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cf279bce5f51576e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Maths/Lemme - Logarithmes d'équivalents.md"
+          }
+        }
+      },
+      {
+        "id": "6204caad1e1517a1",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      },
+      {
+        "id": "4306afacbd9c389c",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "c1555f864c982674",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {}
+        }
+      },
+      {
+        "id": "dcfbce0a3ffb068a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "active": "64abf861ef13e19e",
+  "lastOpenFiles": [
+    "Maths/Preuve - Calcul d'équivalents de suites.md",
+    "Maths/Cours Suites.md",
+    "Maths/Définition Limite de e.md",
+    "Maths/Preuve - Croissance Comparée de suites.md",
+    "Maths/Suites Usuelles.md",
+    "Maths/Preuve - Suite récurrente linéaire d'ordre 2.md",
+    "Maths/Maths TD - Ensembles et dénombrements.md",
+    "Maths/Formules Dénombrement.md",
+    "Maths/Cours Dénombrement et Ensembles Finis.md",
+    "Maths/Coéfficients Binomiaux.md"
+  ]
+}

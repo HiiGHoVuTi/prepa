@@ -1,0 +1,5 @@
+[[Formule de Black]]
+![[Exercice - Segway Q1.excalidraw|100%]]
+![[Exercice - Segway Qasservi.excalidraw|100%]]
+![[Exercice - Segway Q10+.excalidraw]]
+![[Exercice - Segway Vérin + Charge.excalidraw]]

@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "f2bd9954f517210b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcb825481f6b2ed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2f8ef78d711ffc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIPE/Oral 1 Support.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "77cd2b111b465c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8865d3035606efc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIPE/Plan Oral 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2037eaf0ecc70bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e94fff48fdec92f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34b55af41ae12d45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b47cb2905f82b73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b266841a3bf1318",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "743d25735fbfad6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f7fe04079b311fca",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8a6c8957d012f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "337d6d59bb6d7f6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TIPE/Oral 1 Support.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1ef123efa5936d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TIPE/Oral 1 Support.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0dc2d99528b9b04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0439cbb680ef7f39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TIPE/Oral 1 Support.md"
+              }
+            }
+          },
+          {
+            "id": "4a86b83eed12363b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "32cd99396450b634",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2bd436ac8b80768",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-javascript-init:Run Init JavaScript": false,
+      "remotely-save:Remotely Save": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
+    }
+  },
+  "active": "f2f8ef78d711ffc7",
+  "lastOpenFiles": [
+    "TIPE/Soutenances_TIPE-2.pdf",
+    "TIPE/Unconfirmed 918650.crdownload",
+    "TIPE/Plan Oral 1.md",
+    "TIPE/Oral 1 Support.md",
+    "TIPE/TIPE Example Code Comment.md",
+    "Full HVM FFT Code.md",
+    "TIPE/TIPE roots of unity.png",
+    "Maths/Preuve - Orthogonalisation.md",
+    "Maths/Preuve - Sous-Espace Orthogonal.md",
+    "TIPE/Scott Encoding.md",
+    "Maths/Cours Espaces Euclidiens.md",
+    "Maths/Preuve - Cauchy-Schwartz 2.md",
+    "Maths/Preuve - Théorème de Pythagore.md",
+    "Maths/Preuve - Déterminant de Vandermonde.md",
+    "TIPE/Règles Equivalence IC.png",
+    "TIPE/Interaction Calculus resources.md",
+    "TIPE/Règles Equivalence IC.png",
+    "TIPE/Complexité HVM.png.png",
+    "TIPE/FFT original doc.md",
+    "TIPE/inet-simulation.gif",
+    "Pasted image 20230619203733.png",
+    "Pasted image 20230619203700.png",
+    "TIPE/Pistes Oral 1.md",
+    "TIPE/Optimalité, Lamping.md",
+    "Résultats/Colle Anglais 15.md",
+    "TIPE/Full HVM FFT Code.md",
+    "Maths/Preuve - Fubini.md",
+    "Maths/Cours Déterminant.md",
+    "Maths/Preuve - Déterminant.md",
+    "Maths/Cours Groupe Symétrique.md",
+    "Maths/Preuve - Det Multiplication.md",
+    "Maths/Preuve - Existance Ordre.md",
+    "Maths/Preuve - Inversibilité det.md",
+    "Maths/Preuve - Det de sous-matrice.md",
+    "favicon.svg",
+    "Accueil",
+    "t02(l2).png",
+    "theta(m).png",
+    "Info/Exos"
+  ]
+}

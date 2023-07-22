@@ -1,0 +1,7 @@
+
+
+Many countries have rather wealthy elites and a general population which lags behind in terms of quality of life. After all, an economy can grow at the cost of the confort of the population and the prospect si often entising. But do the ends justify the means ?
+
+The quote is often attributed to Machiavelli and even though he never formulated it this way, his philosophy stated that political responsability and morality are orthogonal. In other words, the ruler has to do what is right for his country regardless of what morals have to say. Just like in one's personal life where making sacrifices early on usually leads to more wealth down the line, a country should think strategically about its decisions and the goal justifies the sacrifices that have to be made.
+
+However, something crucial changes when we transfer this concept to a whole country: self-determination. Whenever someone takes a planned risk, it is their choice and they know they can handle a failure. From a country's perspective it might be worth letting people starve if it means making sure they keep a competitive advantage. From a democratic point of view that is not justifiable as we cannot let some parts of the populations be treated as lab rats. After all there is a reason law is in place to limit scientific trials: some experiments are simply not moral to make.

@@ -1,0 +1,41 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Physique - DL05.md": [
+      {
+        "title": "Complete Part 1",
+        "time": "2022-10-26 16:45",
+        "rowNumber": 22
+      },
+      {
+        "title": "Complete Part 2",
+        "time": "2022-10-27",
+        "rowNumber": 23
+      },
+      {
+        "title": "Complete Part 3",
+        "time": "2022-10-28",
+        "rowNumber": 24
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": true,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}
